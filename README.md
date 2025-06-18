@@ -16,10 +16,12 @@ Solution: I manually labeled the data using the Roboflow platform to enhance the
 
 
 ## Step 1: 
-The demo is deployed based on the provided video, but due to its large size, the video file named 1473_CH05_20250501133703_154216.mp4 will be renamed to test.mp4 and placed in the videos folder before deploying the project (Because as I understand I will predict on this actual video.)
+<pre>$ git clone https://github.com/tinhvo12022003/AI_projec</pre>
+<pre>$ cd AI_project</pre>
 
 ## Step 2:
-<pre>$ cd ./testYOLO</pre>
+
+The demo is deployed based on the provided video, but due to its large size, the video file named 1473_CH05_20250501133703_154216.mp4 will be renamed to test.mp4 and placed in the videos folder before deploying the project (Because as I understand I will predict on this actual video)
 
 ## Step 3: 
 <pre>$ docker-compose up --build</pre>
