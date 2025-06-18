@@ -36,3 +36,13 @@ To save time, you can install the libraries from the requirements.txt file direc
 Both the predict and main files include prediction functionality; however, the main file predicts items only on the serving table (a specific ROI area), while the predict file detects all visible items in the frame.
 
 Just change the video path in the beginning of the source code (simple)
+
+
+If you want to save time and view the results directly, you can access them on Google Drive using the following link: https://drive.google.com/drive/u/0/folders/1dX3sdgiI4N7RKUhOR8E-2J67dW8HsxAY
+
+
+# Conclusion
+This project has been truly practical and has helped me gain a deeper understanding of business operations. It made me realize how essential AI is and how much it can support businesses. I sincerely thank you for the time we spent working together—even though it was brief, I truly appreciate it. 
+
+Regardless of the outcome, I look forward to receiving your feedback to further improve this project!
+
